@@ -30,10 +30,10 @@ You can either **clone this repository** or simply copy the `.cpp` files and run
 ### 🔹 Clone & Compile
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/ASHFIQUL005/Numerical_Assignment.git
 
 # Navigate to project folder
-cd your-repo-name
+cd Numerical_Assignment
 
 # Compile individual files
 g++ secant.cpp -o secant
